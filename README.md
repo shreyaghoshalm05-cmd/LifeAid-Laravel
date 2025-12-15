@@ -86,7 +86,6 @@ This project was developed as a **full-stack practice project** to strengthen ba
 ![First Aid](screenshots/firstaid.png)
 
 ---
-
 ## ⚙️ How to Run This Project Locally
 
 1. Clone the repository:
