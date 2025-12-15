@@ -13,23 +13,23 @@ A Laravel-based healthcare and emergency support web application designed to pro
 ## 📌 Project Overview
 
 **LifeAid** is a medical and emergency assistance web application built using **Laravel (MVC architecture)**.  
-The project focuses on helping users quickly find medical services and emergency resources in critical situations.
+The project focuses on helping users quickly find essential medical services and emergency resources during critical situations.
 
-This project was developed as a **full-stack practice project** to strengthen backend development skills and real-world application design.
+This project was developed as a **full-stack practice project** to strengthen backend development skills and understand real-world application design using Laravel.
 
 ---
 
 ## 🚀 Features
 
 - 🏥 Hospital listing with location details  
-- 👨‍⚕️ Doctor directory with specialization details  
-- 🩸 Blood donation & donor information  
-- 💊 Pharmacy and medicine availability module  
+- 👨‍⚕️ Doctor directory with specialization information  
+- 🩸 Blood donation & donor management module  
+- 💊 Pharmacy and medicine availability section  
 - 🧪 Labs & clinics listing  
 - 🚑 Emergency contact information  
 - 🩹 First-aid guidance section  
 - 🔍 Search functionality across medical services  
-- 🤖 Chatbot support (basic assistance)  
+- 🤖 Basic chatbot assistance  
 
 ---
 
@@ -45,11 +45,45 @@ This project was developed as a **full-stack practice project** to strengthen ba
 
 ## 📂 Project Structure (MVC)
 
-- `app/Http/Controllers` – Application logic  
-- `app/Models` – Database models  
+- `app/Http/Controllers` – Handles application logic  
+- `app/Models` – Manages database interaction  
 - `resources/views` – Blade templates (UI)  
 - `routes/web.php` – Web routes  
 - `public/` – Public assets  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+---
+
+### 🏥 Hospitals Listing
+![Hospitals Page 1](screenshots/hospitals1.png)
+![Hospitals Page 2](screenshots/hospitals2.png)
+
+---
+
+### 🩸 Blood Donation Module
+![Blood Donor Page 1](screenshots/donor.png)
+![Blood Donor Page 2](screenshots/donor2.png)
+
+---
+
+### 🧪 Labs & Clinics
+![Labs](screenshots/labs.png)
+
+---
+
+### 💊 Pharmacy
+![Pharmacy](screenshots/pharmacy.png)
+
+---
+
+### 🩹 First Aid & Emergency
+![First Aid](screenshots/firstaid.png)
 
 ---
 
